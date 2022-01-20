@@ -1,0 +1,1 @@
+Hello. This is the first part of my software development education. I am starting. I am enthusiastic. I am a quick learner.
